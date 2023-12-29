@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/saurabh533/images/raw/main/hello.gif" width="30px"> I'm Saurabh Raokhande</h1>
-<h3 align="center">git commit -m "Hello, I'm a Technical Support Engineer at Thales"</h3>
+<h1 align="left">Hi <img src="https://github.com/saurabh533/images/raw/main/hello.gif" width="30px"> I'm Saurabh Raokhande</h1>
+<h3 align="left">git commit -m "Hello, I'm a Technical Support Engineer at Thales"</h3>
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
@@ -23,9 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-src="https://raw.githubusercontent.com/chandrikadeb7/github-profile-readme-generator/chandrikadeb7-devlogo/src/images/icons/Social/devto.svg" alt="SaurabhR1998" height="30" width="40" /></a>
-<a href="https://twitter.com/SaurabhR1998" target="blank"><img align="center" src="https://github.com/saurabh533/images/raw/main/logo.png" alt="chandrikadeb7" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/saurabhraokhande" target="blank"><img align="center" src="https://github.com/saurabh533/images/raw/main/LinkedIn_icon.png" alt="chandrika-deb" height="30" width="40" /></a>
+<a href="https://twitter.com/SaurabhR1998" target="blank"><img align="center" src="https://github.com/saurabh533/images/raw/main/logo.png" alt="SaurabhR1998" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/saurabhraokhande" target="blank"><img align="center" src="https://github.com/saurabh533/images/raw/main/LinkedIn_icon.png" alt="SaurabhR1998" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
