@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SaurabhR1998" target="blank"><img align="center" src="https://github.com/saurabh533/images/raw/main/logo.png" alt="SaurabhR1998" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/saurabhraokhande" target="blank"><img align="center" src="https://github.com/saurabh533/images/raw/main/LinkedIn_icon.png" alt="SaurabhR1998" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurabhraokhande/" target="blank"><img align="center" src="https://github.com/saurabh533/images/raw/main/LinkedIn_icon.png" alt="SaurabhR1998" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
