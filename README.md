@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://github.com/saurabh533/images/raw/main/hello.gif" width="30px"> I'm Saurabh Raokhande</h1>
-<h3 align="left">git commit -m "Hello, I'm a Technical Support Engineer at Thales"</h3>
+<h3 align="left">git commit -m "Hello, I'm an Data Analyst at Thales"</h3>
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/SaurabhR1998" target="blank"><img src="https://img.shields.io/twitter/follow/SaurabhR1998?logo=twitter&style=for-the-badge" alt="SaurabhR1998" /></a> </p>
 
-- 👨‍💻 All about me is at [My Website](https://soft-trifle-19a2a7.netlify.app/)
+- 👨‍💻 All about me is at [My Website](https://saurwork.netlify.app/)
 
 - 💬 Ask me about Data = [{'BigData':'spark','hadoop':'hive'},{'DataScience':'Python', 'R', 'Rattle', 'Weka'}] 
 
-- 📫 How to reach me **saurabh2509raokhande@gmail.com**
+- 📫 How to reach me **saurabhbrao1@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1KLFkQ4o0iH4K4f2dzH0U_SXOa9BylwMc/view?usp=drive_link)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/drive/u/5/folders/1kqoa6Z6Sc_T8ERBIlOIQmdvgDpd05NBh)
 
 ### What are my featured projects:question::rocket:
 <code>[Magic of Statistics](https://www.linkedin.com/posts/saurabhraokhande_stock-analysis-activity-7079074454663794688-gpYY?utm_source=share&utm_medium=member_desktop)</code>:hourglass:     
