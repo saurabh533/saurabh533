@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saurabhbrao1@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/drive/u/5/folders/1kqoa6Z6Sc_T8ERBIlOIQmdvgDpd05NBh)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1VB98E0mAyRJ0YNrBhr-Nc2C2n6h0Lqkr/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
 <code>[Magic of Statistics](https://www.linkedin.com/posts/saurabhraokhande_stock-analysis-activity-7079074454663794688-gpYY?utm_source=share&utm_medium=member_desktop)</code>:hourglass:     
