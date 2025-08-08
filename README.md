@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://github.com/saurabh533/images/raw/main/hello.gif" width="30px"> I'm Saurabh Raokhande</h1>
-<h3 align="left">git commit -m "Hello, I'm an Data Analyst at Thales"</h3>
+<h3 align="left">git commit -m "Hello, I'm an Data Analyst at Great American Insurance Group"</h3>
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
