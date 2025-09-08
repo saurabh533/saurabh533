@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/SaurabhR1998" target="blank"><img src="https://img.shields.io/twitter/follow/SaurabhR1998?logo=twitter&style=for-the-badge" alt="SaurabhR1998" /></a> </p>
 
-- 👨‍💻 All about me is at [My Website](https://saurwork.netlify.app/)
+- 👨‍💻 All about me is at [My Website](https://sauraoworks.netlify.app/)
 
 - 💬 Ask me about Data = [{'BigData':'spark','hadoop':'hive'},{'DataScience':'Python', 'R', 'Rattle', 'Weka'}] 
 
