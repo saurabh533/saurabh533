@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh533&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22saurabh533" /> </p>
 
-![Banner](https://github.com/saurabh533/images/raw/main/log_anal.gif)
+![Banner](https://github.com/saurabh533/images/raw/main/imgg.gif)
 
 <p align="left"> <a href="https://twitter.com/SaurabhR1998" target="blank"><img src="https://img.shields.io/twitter/follow/SaurabhR1998?logo=twitter&style=for-the-badge" alt="SaurabhR1998" /></a> </p>
 
