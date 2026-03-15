@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://github.com/saurabh533/images/raw/main/hello.gif" width="30px"> I'm Saurabh Raokhande</h1>
-<h3 align="left">git commit -m "Hello, I'm an Data Analyst at Great American Insurance Group"</h3>
+<h3 align="left">git commit -m "Hello, I'm an Data Analyst at Accounting Aid Society"</h3>
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
@@ -15,11 +15,12 @@
 
 - 📫 How to reach me **saurabhbrao1@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1VB98E0mAyRJ0YNrBhr-Nc2C2n6h0Lqkr/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1O_-RLVduY1eLtdI6LdM2F7nZPrs5-cTO/view?usp=drive_link)
 
 ### What are my featured projects:question::rocket:
+<code>[Persistent Chatbot](https://github.com/saurabh533/Persistent-Chatbot)</code>:robot:     
 <code>[Magic of Statistics](https://www.linkedin.com/posts/saurabhraokhande_stock-analysis-activity-7079074454663794688-gpYY?utm_source=share&utm_medium=member_desktop)</code>:hourglass:     
-<code>[Real Time Object Detection](https://github.com/saurabh533/Computer_Vision)</code>:mask:  
+<code>[Real Time Object Detection](https://github.com/saurabh533/Computer_Vision)</code>:mask: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
